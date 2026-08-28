@@ -7,7 +7,7 @@
 
 ![douyin-auto-fire-banner.svg](https://img.908988.xyz/file/教程/douyin-auto-fire/5pdab8It.svg)
 
-## 项目介绍
+##  项目介绍
 
 `douyin-auto-fire` 是一个基于 Python + Playwright 的抖音私信自动发送工具。
 
